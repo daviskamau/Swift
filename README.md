@@ -2,19 +2,18 @@
 Programming Patterns Written On Swift language
 ## Programming Patterns
 
-## Creational  [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Creational)
+## Creational  
 
-- Abstract Factory [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Creational/AbstractFactory.swift)
+- Abstract Factory 
 
-## Structural  [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Structural)
+## Structural  
 
-- Adapter [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Structural/Adapter.swift)
+- Adapter 
+## Behavioral  
 
-## Behavioral  [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Behavioral)
+- Observer 
 
-- Observer [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Behavioral/Observer.swift)
-
-- State [link](https://github.com/daviskamau/Swift_Programming_Patterns/blob/master/Swift_Programming_Patterns.playground/Sources/Behavioral/State.swift)
+- State 
 
 ## License
 Swift_Programming_Patterns is licensed under the MIT License, please see the (LICENSE) file.
